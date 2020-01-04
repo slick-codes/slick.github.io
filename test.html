@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>slider</title>
+    
+    <style>
+        *{
+            margin:0;
+            padding:0;
+            box-sizing: border-box;
+        }
+        #mainContainner{
+            width:100%;
+            overflow:hidden;
+        }
+        .slideContainner{
+            display:flex;
+            width:auto;
+            transition:2s;
+        }
+        .easeMove{
+            animation-name: slide;
+            animation-timing-function: ease-in-out;
+            animation-direction: alternate;
+            animation-fill-mode: backwards;
+            animation-duration: 1s;
+            animation-delay: 0;
+        }
+        @keyframes slide{
+            from{
+                transform:translateX(100%)
+            }to{
+                transform:translateX(0%) !important;
+            }
+        }
+        
+        
+    </style>
+</head>
+<body>
+   <div id="mainContainner">
+       <div class="slideContainner ">
+           <div><img src="Assets/images/Slide/img2.png" alt=""></div>
+           <div><img src="Assets/images/Slide/img4.png" alt=""></div>
+           <div><img src="Assets/images/Slide/img5.png" alt=""></div>
+           <div><img src="Assets/images/Slide/img7.png" alt=""></div>
+       </div>
+   </div>
+    
+    
+    
+    <script>
+        const slideContainner = document.querySelector('.slideContainner');
+        const slideImg = document.querySelectorAll('.slideContainner div');
+        
+        
+        const img = document.querySelectorAll('.slideContainner div img');
+        
+        for (let i = 0; i < slideImg.length; i++){
+        slideImg[i].style.width = window.innerWidth;
+            img[i].setAttribute('draggable','false')
+        }
+        
+        
+        
+        let index = 0;
+        
+       const activate =   function(){
+           
+           
+           window.onmousemove = function(){
+        
+               
+           const move = event.clientX || event.offsetX ;
+               
+               const width = move * slideImg.length 
+               
+               
+              // console.log(width)
+               
+               slideContainner.style.transform = `translateX( ${ -width}px )`
+               
+               return width
+           }
+       }
+       
+       slideContainner.onmousedown = activate;
+       
+       slideContainner.onmouseup = function(){
+           
+           window.onmousemove = function(){
+               slideContainner.style.transform += `translateX( ${ -activate}px )`
+           }
+           
+          
+           
+       }
+        
+        
+        
+    </script>
+</body>
+</html>

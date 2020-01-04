@@ -1,0 +1,178 @@
+<NotepadPlus>
+    <Project name="Old Portfolio ">
+        <Folder name=".vscode">
+            <File name="Pratical\Portfolio\.vscode\launch.json" />
+        </Folder>
+        <Folder name="Assets">
+            <Folder name="css">
+                <File name="Pratical\Portfolio\Assets\css\anim.css" />
+                <File name="Pratical\Portfolio\Assets\css\bootstrap.min.css" />
+                <File name="Pratical\Portfolio\Assets\css\main.css" />
+                <File name="Pratical\Portfolio\Assets\css\responsive.css" />
+                <File name="Pratical\Portfolio\Assets\css\script.css" />
+            </Folder>
+            <Folder name="Frameworks">
+                <Folder name="font-awesome">
+                    <Folder name="css">
+                        <File name="Pratical\Portfolio\Assets\Frameworks\font-awesome\css\font-awesome.css" />
+                        <File name="Pratical\Portfolio\Assets\Frameworks\font-awesome\css\font-awesome.min.css" />
+                        <File name="Pratical\Portfolio\Assets\Frameworks\font-awesome\css\index.html" />
+                    </Folder>
+                    <Folder name="fonts">
+                        <File name="Pratical\Portfolio\Assets\Frameworks\font-awesome\fonts\fontawesome-webfont.eot" />
+                        <File name="Pratical\Portfolio\Assets\Frameworks\font-awesome\fonts\fontawesome-webfont.svg" />
+                        <File name="Pratical\Portfolio\Assets\Frameworks\font-awesome\fonts\fontawesome-webfont.ttf" />
+                        <File name="Pratical\Portfolio\Assets\Frameworks\font-awesome\fonts\fontawesome-webfont.woff" />
+                        <File name="Pratical\Portfolio\Assets\Frameworks\font-awesome\fonts\fontawesome-webfont.woff2" />
+                        <File name="Pratical\Portfolio\Assets\Frameworks\font-awesome\fonts\FontAwesome.otf" />
+                    </Folder>
+                    <Folder name="less">
+                        <File name="Pratical\Portfolio\Assets\Frameworks\font-awesome\less\animated.less" />
+                        <File name="Pratical\Portfolio\Assets\Frameworks\font-awesome\less\bordered-pulled.less" />
+                        <File name="Pratical\Portfolio\Assets\Frameworks\font-awesome\less\core.less" />
+                        <File name="Pratical\Portfolio\Assets\Frameworks\font-awesome\less\fixed-width.less" />
+                        <File name="Pratical\Portfolio\Assets\Frameworks\font-awesome\less\font-awesome.less" />
+                        <File name="Pratical\Portfolio\Assets\Frameworks\font-awesome\less\icons.less" />
+                        <File name="Pratical\Portfolio\Assets\Frameworks\font-awesome\less\larger.less" />
+                        <File name="Pratical\Portfolio\Assets\Frameworks\font-awesome\less\list.less" />
+                        <File name="Pratical\Portfolio\Assets\Frameworks\font-awesome\less\mixins.less" />
+                        <File name="Pratical\Portfolio\Assets\Frameworks\font-awesome\less\path.less" />
+                        <File name="Pratical\Portfolio\Assets\Frameworks\font-awesome\less\rotated-flipped.less" />
+                        <File name="Pratical\Portfolio\Assets\Frameworks\font-awesome\less\screen-reader.less" />
+                        <File name="Pratical\Portfolio\Assets\Frameworks\font-awesome\less\stacked.less" />
+                        <File name="Pratical\Portfolio\Assets\Frameworks\font-awesome\less\variables.less" />
+                    </Folder>
+                    <Folder name="scss">
+                        <File name="Pratical\Portfolio\Assets\Frameworks\font-awesome\scss\font-awesome.scss" />
+                        <File name="Pratical\Portfolio\Assets\Frameworks\font-awesome\scss\_animated.scss" />
+                        <File name="Pratical\Portfolio\Assets\Frameworks\font-awesome\scss\_bordered-pulled.scss" />
+                        <File name="Pratical\Portfolio\Assets\Frameworks\font-awesome\scss\_core.scss" />
+                        <File name="Pratical\Portfolio\Assets\Frameworks\font-awesome\scss\_fixed-width.scss" />
+                        <File name="Pratical\Portfolio\Assets\Frameworks\font-awesome\scss\_icons.scss" />
+                        <File name="Pratical\Portfolio\Assets\Frameworks\font-awesome\scss\_larger.scss" />
+                        <File name="Pratical\Portfolio\Assets\Frameworks\font-awesome\scss\_list.scss" />
+                        <File name="Pratical\Portfolio\Assets\Frameworks\font-awesome\scss\_mixins.scss" />
+                        <File name="Pratical\Portfolio\Assets\Frameworks\font-awesome\scss\_path.scss" />
+                        <File name="Pratical\Portfolio\Assets\Frameworks\font-awesome\scss\_rotated-flipped.scss" />
+                        <File name="Pratical\Portfolio\Assets\Frameworks\font-awesome\scss\_screen-reader.scss" />
+                        <File name="Pratical\Portfolio\Assets\Frameworks\font-awesome\scss\_stacked.scss" />
+                        <File name="Pratical\Portfolio\Assets\Frameworks\font-awesome\scss\_variables.scss" />
+                    </Folder>
+                    <File name="Pratical\Portfolio\Assets\Frameworks\font-awesome\HELP-US-OUT.txt" />
+                </Folder>
+            </Folder>
+            <Folder name="images">
+                <File name="Pratical\Portfolio\Assets\images\Icon.ico" />
+                <File name="Pratical\Portfolio\Assets\images\Icon.png" />
+                <File name="Pratical\Portfolio\Assets\images\img2.png" />
+                <File name="Pratical\Portfolio\Assets\images\img3.png" />
+                <File name="Pratical\Portfolio\Assets\images\img4.png" />
+                <File name="Pratical\Portfolio\Assets\images\img5.png" />
+                <File name="Pratical\Portfolio\Assets\images\img6.png" />
+                <File name="Pratical\Portfolio\Assets\images\img7.png" />
+                <File name="Pratical\Portfolio\Assets\images\IMG_20190609_165045.jpg" />
+                <File name="Pratical\Portfolio\Assets\images\IMG_20190609_165205.jpg" />
+                <File name="Pratical\Portfolio\Assets\images\Logo ipadVeiw.png" />
+                <File name="Pratical\Portfolio\Assets\images\Logo.png" />
+                <File name="Pratical\Portfolio\Assets\images\Potfolio1.png" />
+                <File name="Pratical\Portfolio\Assets\images\referer.png" />
+                <File name="Pratical\Portfolio\Assets\images\referer2.png" />
+                <File name="Pratical\Portfolio\Assets\images\referer3.png" />
+                <File name="Pratical\Portfolio\Assets\images\referer4.png" />
+                <File name="Pratical\Portfolio\Assets\images\Self Portrate.jpg" />
+                <File name="Pratical\Portfolio\Assets\images\Wall-Paper.jpg" />
+            </Folder>
+            <Folder name="script">
+                <File name="Pratical\Portfolio\Assets\script\backup script.js" />
+                <File name="Pratical\Portfolio\Assets\script\script.js" />
+            </Folder>
+        </Folder>
+        <File name="Pratical\Portfolio\index.html" />
+        <File name="Pratical\Portfolio\test.html" />
+        <File name="Pratical\Portfolio\test.js" />
+    </Project>
+    <Project name="Portfolio Beta">
+        <Folder name="Assets">
+            <Folder name="font-awesome">
+                <Folder name="css">
+                    <File name="Pratical\Portfolio Beta\Assets\font-awesome\css\font-awesome.css" />
+                    <File name="Pratical\Portfolio Beta\Assets\font-awesome\css\font-awesome.min.css" />
+                    <File name="Pratical\Portfolio Beta\Assets\font-awesome\css\index.html" />
+                </Folder>
+                <Folder name="fonts">
+                    <File name="Pratical\Portfolio Beta\Assets\font-awesome\fonts\fontawesome-webfont.eot" />
+                    <File name="Pratical\Portfolio Beta\Assets\font-awesome\fonts\fontawesome-webfont.svg" />
+                    <File name="Pratical\Portfolio Beta\Assets\font-awesome\fonts\fontawesome-webfont.ttf" />
+                    <File name="Pratical\Portfolio Beta\Assets\font-awesome\fonts\fontawesome-webfont.woff" />
+                    <File name="Pratical\Portfolio Beta\Assets\font-awesome\fonts\fontawesome-webfont.woff2" />
+                    <File name="Pratical\Portfolio Beta\Assets\font-awesome\fonts\FontAwesome.otf" />
+                </Folder>
+                <Folder name="less">
+                    <File name="Pratical\Portfolio Beta\Assets\font-awesome\less\animated.less" />
+                    <File name="Pratical\Portfolio Beta\Assets\font-awesome\less\bordered-pulled.less" />
+                    <File name="Pratical\Portfolio Beta\Assets\font-awesome\less\core.less" />
+                    <File name="Pratical\Portfolio Beta\Assets\font-awesome\less\fixed-width.less" />
+                    <File name="Pratical\Portfolio Beta\Assets\font-awesome\less\font-awesome.less" />
+                    <File name="Pratical\Portfolio Beta\Assets\font-awesome\less\icons.less" />
+                    <File name="Pratical\Portfolio Beta\Assets\font-awesome\less\larger.less" />
+                    <File name="Pratical\Portfolio Beta\Assets\font-awesome\less\list.less" />
+                    <File name="Pratical\Portfolio Beta\Assets\font-awesome\less\mixins.less" />
+                    <File name="Pratical\Portfolio Beta\Assets\font-awesome\less\path.less" />
+                    <File name="Pratical\Portfolio Beta\Assets\font-awesome\less\rotated-flipped.less" />
+                    <File name="Pratical\Portfolio Beta\Assets\font-awesome\less\screen-reader.less" />
+                    <File name="Pratical\Portfolio Beta\Assets\font-awesome\less\stacked.less" />
+                    <File name="Pratical\Portfolio Beta\Assets\font-awesome\less\variables.less" />
+                </Folder>
+                <Folder name="scss">
+                    <File name="Pratical\Portfolio Beta\Assets\font-awesome\scss\font-awesome.scss" />
+                    <File name="Pratical\Portfolio Beta\Assets\font-awesome\scss\_animated.scss" />
+                    <File name="Pratical\Portfolio Beta\Assets\font-awesome\scss\_bordered-pulled.scss" />
+                    <File name="Pratical\Portfolio Beta\Assets\font-awesome\scss\_core.scss" />
+                    <File name="Pratical\Portfolio Beta\Assets\font-awesome\scss\_fixed-width.scss" />
+                    <File name="Pratical\Portfolio Beta\Assets\font-awesome\scss\_icons.scss" />
+                    <File name="Pratical\Portfolio Beta\Assets\font-awesome\scss\_larger.scss" />
+                    <File name="Pratical\Portfolio Beta\Assets\font-awesome\scss\_list.scss" />
+                    <File name="Pratical\Portfolio Beta\Assets\font-awesome\scss\_mixins.scss" />
+                    <File name="Pratical\Portfolio Beta\Assets\font-awesome\scss\_path.scss" />
+                    <File name="Pratical\Portfolio Beta\Assets\font-awesome\scss\_rotated-flipped.scss" />
+                    <File name="Pratical\Portfolio Beta\Assets\font-awesome\scss\_screen-reader.scss" />
+                    <File name="Pratical\Portfolio Beta\Assets\font-awesome\scss\_stacked.scss" />
+                    <File name="Pratical\Portfolio Beta\Assets\font-awesome\scss\_variables.scss" />
+                </Folder>
+                <File name="Pratical\Portfolio Beta\Assets\font-awesome\HELP-US-OUT.txt" />
+            </Folder>
+            <Folder name="imgs">
+                <Folder name="Slide">
+                    <File name="Pratical\Portfolio Beta\Assets\imgs\Slide\img2.png" />
+                    <File name="Pratical\Portfolio Beta\Assets\imgs\Slide\img3.png" />
+                    <File name="Pratical\Portfolio Beta\Assets\imgs\Slide\img4.png" />
+                    <File name="Pratical\Portfolio Beta\Assets\imgs\Slide\img5.png" />
+                    <File name="Pratical\Portfolio Beta\Assets\imgs\Slide\img6.png" />
+                    <File name="Pratical\Portfolio Beta\Assets\imgs\Slide\img7.png" />
+                    <File name="Pratical\Portfolio Beta\Assets\imgs\Slide\Potfolio1.png" />
+                </Folder>
+                <File name="Pratical\Portfolio Beta\Assets\imgs\Icon.ico" />
+                <File name="Pratical\Portfolio Beta\Assets\imgs\Icon.png" />
+                <File name="Pratical\Portfolio Beta\Assets\imgs\IMG_20190609_165045.jpg" />
+                <File name="Pratical\Portfolio Beta\Assets\imgs\IMG_20190609_165205.jpg" />
+                <File name="Pratical\Portfolio Beta\Assets\imgs\Logo ipadVeiw.png" />
+                <File name="Pratical\Portfolio Beta\Assets\imgs\Logo.png" />
+                <File name="Pratical\Portfolio Beta\Assets\imgs\referer.png" />
+                <File name="Pratical\Portfolio Beta\Assets\imgs\referer2.png" />
+                <File name="Pratical\Portfolio Beta\Assets\imgs\referer3.png" />
+                <File name="Pratical\Portfolio Beta\Assets\imgs\referer4.png" />
+                <File name="Pratical\Portfolio Beta\Assets\imgs\Self Portrate.jpg" />
+                <File name="Pratical\Portfolio Beta\Assets\imgs\Wall-Paper.jpg" />
+            </Folder>
+            <Folder name="scripts">
+                <File name="Pratical\Portfolio Beta\Assets\scripts\compiled-es5-main.js" />
+                <File name="Pratical\Portfolio Beta\Assets\scripts\main.js" />
+            </Folder>
+            <Folder name="style">
+                <File name="Pratical\Portfolio Beta\Assets\style\main.css" />
+                <File name="Pratical\Portfolio Beta\Assets\style\txtAnim.css" />
+            </Folder>
+        </Folder>
+        <File name="Pratical\Portfolio Beta\index.html" />
+    </Project>
+</NotepadPlus>

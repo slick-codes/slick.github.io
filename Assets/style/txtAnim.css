@@ -1,0 +1,98 @@
+.txt-body h1 {
+    font-family: arial;
+}
+
+.txt-body h1:nth-child(1) {
+    font-size: 5vw;
+    text-transform: uppercase;
+    animation-name: walkin;
+    animation-duration: 1s;
+    animation-delay: 0s;
+    animation-fill-mode: backwards;
+    animation-timing-function: linear;
+    left: 0;
+}
+
+.txt-body h1:nth-child(2) {
+    font-size: 6.1vw;
+    text-transform: uppercase;
+    animation-name: walkin;
+    animation-duration: 1s;
+    animation-delay: 0.5s;
+    animation-fill-mode: backwards
+}
+
+.txt-body h1:nth-child(3) {
+    color: red;
+    text-transform: uppercase;
+    font-size: 1.48vw;
+    letter-spacing: 0.89vw;
+    animation-name: walkin;
+    animation-duration: 1s;
+    animation-delay: 1.5s;
+    animation-fill-mode: backwards
+}
+
+@keyframes walkin {
+    from {
+        margin-left: -19em;
+    }
+    to {
+        margin-left: 0em;
+    }
+}
+
+.line {
+    height: 19.9vw;
+    position: absolute;
+    width: 1em;
+    background: #688A8F;
+    left: 2em;
+    display: none;
+    z-index: 2
+}
+
+.txt-body span {
+    color: red;
+}
+
+.txt-body .txt {
+    position: absolute;
+    display: none;
+    height: 25vw;
+    width: 100%;
+    overflow: hidden;
+    left: 2.4em;
+}
+
+.txt .txHolder {
+    position: absolute;
+    width: 43vw;
+    animation-name: slow-fade;
+    animation-duration: 1.6s;
+    animation-delay: 3.9s;
+    animation-fill-mode: backwards;
+    left: 1em;
+}
+
+@keyframes slow-fade {
+    from {
+        left: 1em;
+        opacity: 1;
+    }
+    to {
+        left: -35em;
+        opacity: 0;
+    }
+}
+
+header .txt:nth-child(2) {
+    display: block;
+}
+
+header .txt button {
+    padding: 0.4em 2em;
+    position: absolute;
+    bottom: 0;
+    left: 5em;
+}
